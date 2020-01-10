@@ -33,6 +33,10 @@ class ViewController: UIViewController {
        // jgkldfjgdfjgfdgdfgdfjkgladfjgldf"
 
         
+        
+        var rajuaa = "software engineer"
+        
+        
         // Do any additional setup after loading the view.
     }
 
