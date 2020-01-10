@@ -19,12 +19,15 @@ class ViewController: UIViewController {
         print("dsfdhjklhlfjdsfhk")
         print("ieuworeuorfdfnldsaj687665")
         print("raju")
+        print("chintu")
         
         
         
         
         print("hai raju")
         
+        
+        var raju = "ios developer"
         
         // Do any additional setup after loading the view.
     }
