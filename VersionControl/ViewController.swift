@@ -22,6 +22,10 @@ class ViewController: UIViewController {
         
         
         
+        
+        print("hai raju")
+        
+        
         // Do any additional setup after loading the view.
     }
 
